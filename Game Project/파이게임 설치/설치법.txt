@@ -1,0 +1,8 @@
+32bit : pygame-1.9.3-cp36-cp36m-win_amd64.whl
+64bit : pygame-1.9.3-cp36-cp36m-win32.whl
+
+C:\Users\(Username) 에 자신의 bit에 맞는 파일 놓기
+명령 프롬포트 열어서 
+32bit : pip install pygame-1.9.3-cp36-cp36m-win_amd64.whl
+64bit : pip install pygame-1.9.3-cp36-cp36m-win32.whl
+입력
